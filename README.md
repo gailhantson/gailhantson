@@ -4,7 +4,7 @@ I am a tech writer, tinkerer, and technologist living and working on Planet Eart
 
 ## About Me
 
-## Projects
+## Projects and Proofs
 
 ## Portfolio and Blog Posts
 
