@@ -1,4 +1,4 @@
-## Technical Writer ♜ I help write things down.
+## Technical Writer ♜ I write things down.
 
 I am a tech writer, tinkerer, and technologist living and working on Planet Earth 🌎 
 
