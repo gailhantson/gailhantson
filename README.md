@@ -14,4 +14,6 @@ A proof is a little piece of - well, proof - that I know what I'm doing sometime
 
 ## Portfolio and Blog
 
+My biggest, most complete project: My portfolio and blog. 
+
 ## Get In Touch
