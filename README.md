@@ -8,6 +8,10 @@ I'm a messy, multipassionate writer and technologist with a big garden and a big
 
 ## Projects and Proofs
 
+A project is something complete, rounded-out, and ready to be shown to the world. A project involves many skills and competencies, and is composed out of proofs.
+
+A proof is a little piece of - well, proof - that I know what I'm doing sometimes. It typically covers only one or few skills and competencies. They're shorter and more digestable than exploring a large, possibly unfinished project.
+
 ## Portfolio and Blog
 
 ## Get In Touch
