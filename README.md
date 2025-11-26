@@ -17,3 +17,5 @@ A proof is a little piece of - well, proof - that I know what I'm doing sometime
 My biggest, most complete project: My portfolio and blog. 
 
 ## Get In Touch
+
+The best way to reach me is by sending me an email at gailhantson@hotmail.com or by contacting me on LinkedIn.
