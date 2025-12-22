@@ -6,16 +6,6 @@ I am a tech writer, tinkerer, and technologist living and working on Planet Eart
 
 I'm a messy, multipassionate writer and technologist with a big garden and a bigger, messier digital garden. I have a background in creative writing and theatrical production, and have spent years pursuing my interests in content strategy. I'm interested in technologies both new and old - but especially free and open source. I've been a lot of people, seen a lot of things, and written a lot of unpublished fluff.
 
-## Projects and Proofs
-
-A project is something complete, rounded-out, and ready to be shown to the world. A project involves many skills and competencies, and is composed out of proofs.
-
-A proof is a little piece of - well, proof - that I know what I'm doing sometimes. It typically covers only one or few skills and competencies. They're shorter and more digestable than exploring a large, possibly unfinished project.
-
-## Portfolio and Blog
-
-My biggest, most complete project: My portfolio and blog. 
-
 ## Get In Touch
 
 The best way to reach me is by sending me an email at gailhantson@hotmail.com or by contacting me on LinkedIn.
